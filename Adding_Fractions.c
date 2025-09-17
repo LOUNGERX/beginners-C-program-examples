@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+int main(){ // 
 	/* variable declaration */
 	int numerator1, numerator2, denominator1, denominator2, 
 num_result, denom_result ;
